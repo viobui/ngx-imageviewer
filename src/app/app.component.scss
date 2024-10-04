@@ -1,0 +1,19 @@
+.menu-title {
+  padding: 10px 20px 0;
+  margin: 0;
+}
+
+.sidenav-container {
+  height: 100%;
+}
+
+.sidenav {
+  width: 200px;
+}
+
+.route-content {
+  padding: 20px;
+  min-height: calc(100vh - 64px - 40px);
+  max-height: calc(100vh - 64px - 40px);
+  overflow-y: auto;
+}
